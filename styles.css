@@ -1,0 +1,25 @@
+.d-flex {
+    display: flex;
+}
+img {
+    height: 250px;
+}
+.border {
+    border: 2px solid grey;
+    width: 15%;
+    height: 200px;
+    background: #ececec;
+}
+li {
+    list-style: none;
+}
+.p-r {
+    padding-right: 0.3rem;
+}
+.p-t {
+    padding-top: 0.3rem;
+}
+.border-grey {
+    border: 2px solid grey;
+    background: #ececec;
+}
